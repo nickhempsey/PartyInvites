@@ -20,7 +20,7 @@
       "outputPath": "/Users/nick/Local Sites/PartyInvites/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nick/.nuget/NuGet/NuGet.Config"
+        "/Users/nick/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
